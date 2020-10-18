@@ -1,0 +1,7 @@
+{
+  "name": "TP2-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
